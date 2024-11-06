@@ -1,0 +1,16 @@
+{
+  "full_name": "全名",
+  "full_name_placeholder": "请输入您的全名",
+  "mail_placeholder": "john.doe@email.com",
+  "message": "还有别的吗?",
+  "message_placeholder": "你的信息在这里...",
+  "submit": "提交",
+  "read_more": "继续阅读",
+  "page_not_found": "Page non 录影带",
+  "working_mail": "工作邮件",
+  "anything_else": "还有别的吗?",
+  "contact_message_placeholder": "你的留言在这里...",
+  "page_not_found_content": "您正在寻找的页面可能已被删除、重命名或暂时无法访问。",
+  "back_to_home": "回到接待室",
+  "get_started": "开始使用"
+}
